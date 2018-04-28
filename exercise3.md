@@ -18,4 +18,4 @@ Details of the dataset can be found here: https://dev.socrata.com/foundry/data.d
 
 3. Use Tensorflow to clean and extract 3 features of your chosing
 
-4. Train the data using Tensorflow LinearRegressor (showed a basis example earlier this week)
+4. Train the data you downloaded using Tensorflow LinearRegressor (showed a basic example earlier this week)
