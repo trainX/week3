@@ -6,8 +6,8 @@
 
 The ip address will be provided via the trainX slack channel
 
-- Nifi at http://<ip address>:8081/nifi
-- Zeppelin is located at http://<ip address>:9995
+- Nifi at http://[ip address]:8081/nifi
+- Zeppelin is located at http://[ip address]:9995
 
 ## Task(s)
 
