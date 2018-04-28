@@ -11,7 +11,7 @@ The ip address will be provided via the trainX slack channel
 
 ## Task(s)
 
-1. Ingest Detroit Crime data using the InvokeHTTP Processor.  The crime data can be found at https://data.detroitmi.gov/resource/9i6z-cm98.json.  
+1. Ingest Detroit Crime data using the InvokeHTTP Processor.  The crime data can be found at https://data.detroitmi.gov/resource/9i6z-cm98.csv.  
 Details of the dataset can be found here: https://dev.socrata.com/foundry/data.detroitmi.gov/9i6z-cm98
 
 2. The data should be stored into HDFS.  The HDFS location where that data should be stored is /data/<your name>-detroitcrimedata
