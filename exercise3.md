@@ -1,14 +1,13 @@
 # Exercise 3 - Preparing for the project
 
-## Goal: To give you experience with ingesting data via Nifi, storing it in the Hadoop File System (HDFS) and using Tensorflow 
-to train the data.
+## Goal: To give you experience with ingesting data via Nifi, storing it in the Hadoop File System (HDFS) and using Tensorflow to train the data.
 
 ## System Access:
 
 The ip address will be provided via the trainX slack channel
 
-Nifi at http://<ip address>:8080/nifi
-Zeppelin is located at http://<ip address>:9995
+- Nifi at http://<ip address>:8080/nifi
+- Zeppelin is located at http://<ip address>:9995
 
 ## Task(s)
 
